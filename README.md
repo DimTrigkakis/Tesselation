@@ -1,8 +1,12 @@
 # Tesselation
 
-A visualization of the matrix transformation that occurs in a two dimensional vector space.
+An animated visualization of a 2d matrix transformation.
 
-Example usage for python file, "python tesselation.py 0.01,-5,-2,4" with no spaces between the arguments
+Example usage: "python tesselation.py 0.01,-5,-2,4" with no spaces between the arguments.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/DimTrigkakis/Tesselation/blob/master/Before.png)
+
+Every point on the plane has two coordinates. The result, y = Ax, is a vector which is the linear combination
+
+of the columns of A (the amount depends on the components of x).
 
